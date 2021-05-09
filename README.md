@@ -1,2 +1,2 @@
 # calculator
-learning basics og css by creating calculator
+learning basics of css by creating calculator
